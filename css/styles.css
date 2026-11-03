@@ -1187,7 +1187,7 @@ h1, h2, h3, h4 {
 
 .certs-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 2rem;
 }
 
@@ -1536,6 +1536,61 @@ h1, h2, h3, h4 {
   background: rgba(255, 255, 255, 0.04);
   border: 1px solid var(--border-subtle);
   color: #cbd5e1;
+}
+
+.project-actions {
+  display: flex;
+  gap: 0.65rem;
+  margin-top: auto;
+  align-items: stretch;
+}
+.project-actions .btn-project-detail {
+  flex: 1;
+}
+.btn-project-github {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45rem;
+  padding: 0.8rem 1rem;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--border-subtle);
+  color: #f1f5f9;
+  font-weight: 700;
+  font-size: 0.88rem;
+  border-radius: 12px;
+  text-decoration: none;
+  transition: all var(--transition-fast);
+  white-space: nowrap;
+}
+.btn-project-github:hover {
+  background: rgba(255, 255, 255, 0.15);
+  border-color: #ffffff;
+  color: #ffffff;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.25);
+  transform: translateY(-2px);
+}
+.btn-project-demo {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45rem;
+  padding: 0.8rem 1rem;
+  background: rgba(16, 185, 129, 0.1);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+  color: #34d399;
+  font-weight: 700;
+  font-size: 0.88rem;
+  border-radius: 12px;
+  text-decoration: none;
+  transition: all var(--transition-fast);
+  white-space: nowrap;
+}
+.btn-project-demo:hover {
+  background: #10b981;
+  color: #000000;
+  box-shadow: 0 0 18px rgba(16, 185, 129, 0.4);
+  transform: translateY(-2px);
 }
 
 .btn-project-detail {

@@ -298,18 +298,22 @@ Klik link: <a href="https://wa.me/628132172119" target="_blank" style="color: #2
 <span style="color: #25d366; font-weight: bold;">Nomor Telepon / WhatsApp: 08132172119</span>
       `,
       certs: () => `
-<div style="color: #00f2fe;">=== SERTIFIKASI RESMI SANTRIKODING ===</div>
-[1] <b>FullStack Developer Dengan Rust dan Vue</b> (ID: SK-6KDZFQ0UVVR1VN3)
-[2] <b>FullStack Developer Dengan Rust dan React</b> (ID: SK-40QUSQEIH8P1SHE)
-[3] <b>FullStack Next.js Developer</b> (ID: SK-16H6P9EJX2FMHQF)
-<i>Verifikasi di: https://santrikoding.com/cek-sertifikat</i>
+<div style="color: #00f2fe;">=== SERTIFIKASI & KREDENSIAL RESMI ===</div>
+[1] <b>TOEFL Prediction Test — Score 650</b> (Reg: 2610323825 - Central Course Pare)
+[2] <b>FullStack Developer Dengan Rust dan Vue</b> (ID: SK-6KDZFQ0UVVR1VN3 - Santrikoding)
+[3] <b>FullStack Developer Dengan Rust dan React</b> (ID: SK-40QUSQEIH8P1SHE - Santrikoding)
+[4] <b>FullStack Next.js Developer</b> (ID: SK-16H6P9EJX2FMHQF - Santrikoding)
+<i>Terverifikasi: Santrikoding.com & Central Course Pare</i>
       `,
       projects: () => `
-<div style="color: #00f2fe;">=== REPOSITORY HIGHLIGHTS ===</div>
-1. <b style="color: #42b883;">LMS TKIT & Portal PAUD</b>: Sistem manajemen pembelajaran, presensi foto, rapor kurikulum merdeka & SPP WhatsApp (Laravel + Vue + MySQL).
-2. <b style="color: #ff6b4a;">RustyCommerce</b>: Microservice e-commerce backend Rust Actix-web + Reactive Vue 3 dashboard (<12ms latency).
-3. <b style="color: #61dafb;">RustPulse Monitor</b>: Distributed cloud topology telemetry visualizer (Rust + React WebGL).
-4. <b style="color: #ffffff;">WorkflowIQ SaaS</b>: AI workflow automation Next.js 15 App Router & Server Actions.
+<div style="color: #00f2fe;">=== PROJEK & REPOSITORY UNGGULAN ===</div>
+1. <b style="color: #42b883;">LMS TKIT & Portal PAUD</b>: Sistem manajemen pembelajaran, presensi foto, rapor kurikulum merdeka & SPP WhatsApp (Laravel 13 + Livewire 3 + MySQL).
+2. <b style="color: #ff8566;">Sistem PPDB Online</b>: Platform pendaftaran calon santri multi-step, verifikasi dokumen & kartu PDF (Laravel 13 + MySQL).
+3. <b style="color: #38bdf8;">FinFlow</b>: Sistem manajemen arus kas & keuangan bisnis dengan bukti nota & budgeting limit (HTML5 + CSS3 + JS).
+4. <b style="color: #f59e0b;">Grand Royale Residence</b>: Website showcase properti mewah dengan kalkulator KPR instant (Tailwind CSS + HTML5).
+5. <b style="color: #10b981;">SiAntri Resto</b>: Sistem antrean pesanan & menu resto multi-device real-time SSE (Node.js + Tailwind CSS).
+6. <b style="color: #00a3e0;">Web Kasir POS Modern</b>: Kasir ritel cepat tanpa login dengan integrasi QR DANA (Laravel 13 + Livewire).
+GitHub: https://github.com/hamzahnurabdulaziz-code
       `,
       journey: () => `
 <div style="color: #ff6b4a;">=== TIMELINE PERJALANAN 0 -> PRO ===</div>
@@ -323,7 +327,7 @@ Klik link: <a href="https://wa.me/628132172119" target="_blank" style="color: #2
 <div style="color: #00f2fe;">=== SALURAN KOMUNIKASI RESMI ===</div>
 • WhatsApp / Telepon : <a href="https://wa.me/628132172119" target="_blank" style="color: #25d366; font-weight: bold;">08132172119</a>
 • Email               : hamzahnurabdulaziz@gmail.com
-• GitHub              : github.com/hamzahaziz
+• GitHub              : <a href="https://github.com/hamzahnurabdulaziz-code" target="_blank" style="color: #00f2fe;">github.com/hamzahnurabdulaziz-code</a>
 • LinkedIn            : linkedin.com/in/hamzahnurabdulaziz
 • Domisili            : Indonesia (Tersedia Onsite / Remote)
       `,
@@ -334,7 +338,7 @@ Klik link: <a href="https://wa.me/628132172119" target="_blank" style="color: #2
     / _____ \\     <b>Role</b>: Web Developer
    / /     \\ \\    <b>Core Stack</b>: HTML5, CSS3, Tailwind CSS, Laravel 13
   | |   O   | |   <b>WhatsApp</b>: 08132172119
-   \\ \\_____/ /    <b>Certifications</b>: 3 Verified (Santrikoding)
+   \\ \\_____/ /    <b>Certifications</b>: 4 Verified (Santrikoding & TOEFL 650)
     \\_______/     <b>Responsiveness</b>: Mobile, Tablet & Desktop Ready
                   <b>Uptime Ready</b>: 99.98% High Availability
 </pre>
@@ -429,49 +433,71 @@ Klik link: <a href="https://wa.me/628132172119" target="_blank" style="color: #2
       signer: 'Fika Ridaul Maulayya (CEO & Founder)',
       verifyUrl: 'https://santrikoding.com/cek-sertifikat',
       skills: ['Next.js App Router', 'Server Actions', 'SSR & SSG', 'Edge Caching', 'Prisma / Drizzle ORM', 'FullStack Security', 'Vercel Deployment']
+    },
+    'toefl': {
+      title: 'TOEFL Prediction Test — Score 650',
+      id: '2610323825',
+      img: 'assets/cert-toefl.png',
+      recipient: 'Hamzah Nur Abdul Aziz (Bekasi, 08-01-2007)',
+      issuer: 'Central Course (Kampung Inggris Pare, Kediri)',
+      signer: 'Ilham Syairozi (Director of CC)',
+      verifyUrl: '#',
+      skills: ['TOEFL Score: 650 (C1 Advanced)', 'Listening Comprehension (66/68)', 'Structure & Written Expression (68/68)', 'Reading Comprehension (61/68)', 'Professional English Communication', 'SK DIKNAS: 421.9/7845/418.20/2024', 'NPSN: K9998792']
     }
   };
 
   const projectData = {
     'lms-tk': {
       title: 'Sistem LMS & Portal Sekolah TKIT / PAUD Terpadu',
-      subtitle: 'Laravel 13, Livewire 3, MySQL, Vue 3, Tailwind CSS & WhatsApp Gateway',
-      img: 'assets/project-lms-tk.jpg',
+      subtitle: 'Laravel 13, Livewire 3, MySQL, Tailwind CSS & WhatsApp Gateway',
+      img: 'assets/project-lms-tkit.jpg',
       metrics: { students: '350+ Siswa & Guru', attendance: '98% Presensi Foto', efficiency: '0 Kertas Rapor' },
       desc: 'Sistem Informasi dan Learning Management System (LMS) berbasis web komprehensif yang telah sukses digunakan di institusi pendidikan anak usia dini (TKIT & PAUD). Mengintegrasikan modul presensi harian foto biometrik, pemantauan kurikulum merdeka (Hafalan Surat Pendek, Motorik Halus, Sentra Seni & Balok), rapor perkembangan naratif digital otomatis, dan notifikasi tagihan SPP terintegrasi langsung ke WhatsApp wali murid.',
-      tags: ['Laravel 13', 'Livewire 3', 'PHP 8.4', 'MySQL', 'Vue 3', 'Tailwind CSS', 'Kurikulum Merdeka', 'WhatsApp API Gateway', 'Chart.js', 'REST API']
+      tags: ['Laravel 13', 'Livewire 3', 'PHP 8.4', 'MySQL', 'Tailwind CSS', 'WhatsApp Gateway', 'Kurikulum Merdeka', 'Chart.js', 'REST API']
     },
     'ppdb-online': {
-      title: 'Sistem Informasi & PPDB Online Sekolah Terpadu',
+      title: 'Sistem PPDB Online & Seleksi Siswa',
       subtitle: 'Laravel 13, Livewire 3, MySQL & Multi-Step Verification',
-      img: 'assets/promo-web-dev.jpg',
+      img: 'assets/project-ppdb.jpg',
       metrics: { registration: '1,200+ Pendaftar', verification: 'Real-time Review', report: 'Automated PDF' },
-      desc: 'Platform Penerimaan Peserta Didik Baru (PPDB) online dengan alur pendaftaran multi-step, upload berkas digital berkapasitas tinggi, verifikasi administrasi oleh panitia, cetak kartu ujian dan bukti kelulusan otomatis via PDF, serta notifikasi instan WhatsApp kepada calon wali murid.',
+      desc: 'Platform Penerimaan Peserta Didik Baru (PPDB) online dengan alur pendaftaran multi-step, upload berkas digital berkapasitas tinggi, verifikasi administrasi oleh panitia secara real-time, cetak kartu ujian dan bukti kelulusan otomatis via PDF, serta notifikasi instan WhatsApp kepada calon wali murid.',
       tags: ['Laravel 13', 'Livewire 3', 'MySQL', 'PDF Automation', 'Tailwind CSS', 'WhatsApp Notification', 'Role-Based Access Control']
     },
-    'rustycommerce': {
-      title: 'RustyCommerce High-Performance Engine',
-      subtitle: 'Rust (Actix-web + SQLx) & Vue 3 Composition API',
-      img: 'assets/project-rustycommerce.jpg',
-      metrics: { latency: '12ms avg', throughput: '48k req/sec', memory: '0 Data Races' },
-      desc: 'Arsitektur e-commerce mikroservis bertenaga Rust dengan kompilasi native yang menghasilkan performa luar biasa. Dilengkapi panel analitik real-time menggunakan Vue 3, Pinia, dan WebSocket untuk sinkronisasi inventaris multi-cabang tanpa delay.',
-      tags: ['Rust', 'Actix-web', 'SQLx', 'Vue 3', 'Pinia', 'WebSockets', 'PostgreSQL', 'Docker']
+    'finflow': {
+      title: 'FinFlow — Manajemen Keuangan & Arus Kas',
+      subtitle: 'JavaScript ES6+, HTML5, CSS3 & Node.js Server',
+      img: 'assets/project-finflow.jpg',
+      github: 'https://github.com/hamzahnurabdulaziz-code/Pengatur-keuangan',
+      metrics: { flow: 'Real-time Analytics', tracking: 'Bukti Nota Digital', security: 'Multi-Role Access' },
+      desc: 'Aplikasi manajemen arus kas dan keuangan bisnis modern. Memungkinkan pencatatan transaksi pemasukan dan pengeluaran secara terstruktur dengan upload bukti nota, alokasi budgeting limit per kategori secara dinamis, visualisasi tren keuangan interaktif, dan multi-role access control untuk tim keuangan.',
+      tags: ['JavaScript', 'HTML5', 'CSS3', 'Node.js', 'Finance Engine', 'Data Analytics', 'Local/Cloud Storage']
     },
-    'workflowiq': {
-      title: 'WorkflowIQ SaaS AI Platform',
-      subtitle: 'Next.js 15 App Router & PostgreSQL Enterprise Cloud',
-      img: 'assets/project-workflowiq.jpg',
-      metrics: { success: '98.7% Automation', efficiency: '3.4x Faster', seo: '100% Lighthouse' },
-      desc: 'Platform SaaS modern untuk otomatisasi alur kerja digital dan integrasi model AI cerdas. Menggunakan Next.js 15 App Router terbaru dengan Server Actions dan streaming UI, didukung basis data PostgreSQL dan caching di edge server.',
-      tags: ['Next.js 15', 'React Server Components', 'TypeScript', 'PostgreSQL', 'AI Engine', 'Tailwind', 'Edge Middleware']
+    'grand-royale': {
+      title: 'Grand Royale Residence — Properti Elite',
+      subtitle: 'Tailwind CSS, HTML5 Semantik, CSS3 & JavaScript',
+      img: 'assets/project-grand-royale.jpg',
+      github: 'https://github.com/hamzahnurabdulaziz-code/Penjualan-rumah-elite',
+      metrics: { catalog: 'Katalog Villa 4K', simulation: 'Kalkulator KPR Instant', conversion: 'WhatsApp Direct CTA' },
+      desc: 'Website showcase properti mewah dan hunian premium berstandar internasional. Dilengkapi katalog unit interaktif dengan galeri visual 4K, fitur kalkulator estimasi cicilan KPR instan, filter spesifikasi hunian (kamar tidur, luas tanah, harga), serta integrasi langsung ke agen penjualan via WhatsApp.',
+      tags: ['Tailwind CSS', 'HTML5', 'CSS3', 'JavaScript', 'Font Awesome', 'Responsive Design', 'Luxury Real Estate']
     },
-    'rustpulse': {
-      title: 'RustPulse Cloud Telemetry Monitor',
-      subtitle: 'Rust (Axum + Tokio) & React 19 WebGL Topology',
-      img: 'assets/project-rustpulse.jpg',
-      metrics: { integrity: '100% Rust', concurrency: '9,840 Nodes', bandwidth: '9.8 GB/s' },
-      desc: 'Platform pemantauan infrastruktur server cloud terdistribusi. Backend Rust menjamin keamanan memori tanpa overhead garbage collector, sementara frontend React 19 merender ribuan node koneksi secara interaktif menggunakan WebGL dan akselerasi GPU.',
-      tags: ['Rust', 'Axum', 'Tokio Async', 'React 19', 'Three.js', 'Telemetry', 'Prometheus', 'Redis']
+    'siantri': {
+      title: 'SiAntri — Sistem Antrean & Order Resto Real-Time',
+      subtitle: 'Node.js, Server-Sent Events (SSE), HTML5 & Tailwind CSS',
+      img: 'assets/project-siantri.svg',
+      github: 'https://github.com/hamzahnurabdulaziz-code/WEB-SiAntri-',
+      metrics: { sync: 'Server-Sent Events (SSE)', uptime: '24/7 Long-Run Storage', devices: 'Multi-Device Ready' },
+      desc: 'Sistem antrean pesanan dan menu digital multi-device yang dirancang untuk operasional 24/7 di resto, kafe, dan UMKM. Menghubungkan layar pemesan smartphone pelanggan di meja, layar antrean dapur/chef secara real-time tanpa reload, loket kasir, dan display TV nomor antrean dengan notifikasi suara panggil.',
+      tags: ['Node.js', 'Server-Sent Events', 'Express', 'Tailwind CSS', 'HTML5', 'Real-Time Sync', 'JSON Database']
+    },
+    'kasir-toko': {
+      title: 'Web Kasir & Point of Sale (POS) Modern',
+      subtitle: 'Laravel 13, Livewire, Tailwind CSS & Integrasi QR DANA',
+      img: 'assets/project-kasir-toko.svg',
+      github: 'https://github.com/hamzahnurabdulaziz-code/Kasir-Toko',
+      metrics: { checkout: 'Fast Tanpa Login', payment: 'QR DANA Otomatis', receipt: 'Cetak Struk Invoice' },
+      desc: 'Aplikasi kasir point of sale (POS) ritel modern berbasis Laravel 13 dan Livewire. Didesain untuk transaksi kasir super cepat langsung tanpa login, integrasi pembayaran digital QR DANA, pengelolaan katalog inventaris barang, kalkulasi diskon otomatis, serta pencetakan struk nota belanja.',
+      tags: ['Laravel 13', 'Livewire', 'Tailwind CSS', 'SQLite / MySQL', 'QRIS DANA', 'Receipt Generator', 'POS System']
     }
   };
 
@@ -497,8 +523,23 @@ Klik link: <a href="https://wa.me/628132172119" target="_blank" style="color: #2
         document.getElementById('modal-cert-img').src = data.img;
         document.getElementById('modal-cert-img').alt = data.title;
         
+        const issuerEl = document.getElementById('modal-cert-issuer');
+        if (issuerEl) issuerEl.innerText = data.issuer || 'Santrikoding.com';
+
         const verifyLink = document.getElementById('modal-cert-verify-link');
-        if (verifyLink) verifyLink.href = data.verifyUrl;
+        if (verifyLink) {
+          if (data.verifyUrl && data.verifyUrl !== '#') {
+            verifyLink.href = data.verifyUrl;
+            verifyLink.style.display = 'inline-flex';
+            const span = verifyLink.querySelector('span');
+            if (span) span.innerText = 'Validasi di Santrikoding';
+          } else {
+            verifyLink.href = 'javascript:void(0)';
+            verifyLink.style.display = 'inline-flex';
+            const span = verifyLink.querySelector('span');
+            if (span) span.innerText = 'SK DIKNAS: 421.9/7845/418.20/2024';
+          }
+        }
 
         const skillsWrap = document.getElementById('modal-cert-skills');
         if (skillsWrap) {
@@ -536,6 +577,20 @@ Klik link: <a href="https://wa.me/628132172119" target="_blank" style="color: #2
         const tagsWrap = document.getElementById('modal-proj-tags');
         if (tagsWrap) {
           tagsWrap.innerHTML = data.tags.map(t => `<span class="project-tag">${t}</span>`).join('');
+        }
+
+        const githubLink = document.getElementById('modal-proj-github');
+        if (githubLink) {
+          if (data.github) {
+            githubLink.href = data.github;
+            githubLink.style.display = 'inline-flex';
+          } else {
+            githubLink.style.display = 'none';
+          }
+        }
+
+        if (window.lucide) {
+          window.lucide.createIcons();
         }
 
         projectModal.classList.add('active');
